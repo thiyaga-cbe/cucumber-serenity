@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39442" started-at="2017-07-13T12:04:34Z" finished-at="2017-07-13T12:05:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39442" started-at="2017-07-13T12:04:34Z" finished-at="2017-07-13T12:05:13Z">
+      <class name="testcases.TC001_Login">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testcases.TC001_Login@47c62251]" name="beforeSuite" is-config="true" duration-ms="866" started-at="2017-07-13T17:34:33Z" finished-at="2017-07-13T17:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testcases.TC001_Login@47c62251]" name="beforeTest" is-config="true" duration-ms="1" started-at="2017-07-13T17:34:34Z" finished-at="2017-07-13T17:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testcases.TC001_Login@47c62251]" name="beforeClass" is-config="true" duration-ms="1" started-at="2017-07-13T17:34:34Z" finished-at="2017-07-13T17:34:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testcases.TC001_Login@47c62251]" name="beforeMethod" is-config="true" duration-ms="28120" started-at="2017-07-13T17:34:35Z" finished-at="2017-07-13T17:35:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.TC001_Login@47c62251]" name="login" duration-ms="6722" started-at="2017-07-13T17:35:03Z" data-provider="fetchData" finished-at="2017-07-13T17:35:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anandraj.Pulluru]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Anandraj.Pulluru]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testcases.TC001_Login@47c62251]" name="afterMethod" is-config="true" duration-ms="3179" started-at="2017-07-13T17:35:10Z" finished-at="2017-07-13T17:35:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.TC001_Login@47c62251]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-07-13T17:35:13Z" finished-at="2017-07-13T17:35:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testcases.TC001_Login@47c62251]" name="afterSuite" is-config="true" duration-ms="914" started-at="2017-07-13T17:35:13Z" finished-at="2017-07-13T17:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.TC001_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
